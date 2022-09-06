@@ -9,7 +9,7 @@ Makes enough for 2 lbs of meat.
 
 Bring stock to boil and remove from heat. Soak chiles in stock for 5 minutes.
 
-{% include note.html content='Use the "morita" variety and not the "meco." The morita are dark purple, smaller, less smoky, and softer. The meco are light tan, larger, more smoky, and more stiff. Alternatively, use 2 tablespoons minced canned chipotle in adobo per pound of chicken. Increase the heat by removing fewer seeds' %}
+> Use the "morita" variety and not the "meco." The morita are dark purple, smaller, less smoky, and softer. The meco are light tan, larger, more smoky, and more stiff. Alternatively, use 2 tablespoons minced canned chipotle in adobo per pound of chicken. Increase the heat by removing fewer seeds
 
 * 2 clove [[garlic]], crushed
 * 30mL [[distilled white vinegar]]
@@ -19,7 +19,7 @@ Bring stock to boil and remove from heat. Soak chiles in stock for 5 minutes.
 * 1 tsp [[freshly ground black pepper]]
 * 30g [[salt]]
 
-{% include note.html content='Adjust salt as needed to achieve 10% of marinade by weight.'%}
+> Adjust salt as needed to achieve 10% of marinade by weight.
 
 Blend chiles, bouillon, and all remaining ingredients to a high powered blender or food processor and blend until very smooth, about 2 minutes.
 
